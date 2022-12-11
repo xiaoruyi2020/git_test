@@ -1,6 +1,5 @@
 hello how are you :
 in dev branch.
-<<<<<<< HEAD
 added by master
 
 添加了一段话
